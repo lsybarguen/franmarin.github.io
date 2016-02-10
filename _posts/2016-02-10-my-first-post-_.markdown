@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 title: My first post :_)
 layout: post
 ---
-Jelou güol!
+Testing this magic git blog!
