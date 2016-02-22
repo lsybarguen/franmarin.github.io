@@ -7,12 +7,11 @@ categories: [Videogames]
 ---
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/rFk96Mtr8bs" frameborder="0" allowfullscreen></iframe>
 
-
 In days where the "videogame" word sounds old-fashioned and the "video" prefix does not make much sense, nostalgic players have to make a huge effort to get one of those toys of the late 80s and 90s that they spent many coins with.
 
 In this article I briefly describe my experience in a personal project that let me own one of those toys: Building an economical home arcade system with a highly polished professional end result. An idea split into several steps that could be used as a guideline for anyone who wants to have one of these childhood dreams.
 
-This work is dedicated to my partner in life, without whose patient this would have never been achieved. I am grateful also for the constant support of my dear friend Jes&uacute;s and the daily motivation of my friend Dave.
+This work is dedicated to [my partner in life](https://www.facebook.com/desita.corpasoliveros), without whose patient this would have never been achieved. I am grateful also for the constant support of my dear friend [Jes&uacute;s](https://www.facebook.com/jesus.moreno.12177276) and the daily motivation of my friend [Dave](https://www.facebook.com/davidhill252).
 
 <!--
 Index
@@ -49,7 +48,7 @@ I managed to find places to buy one in Spain: a provider of original cabinets fr
 
 Definitelly it was really expensive getting something closer to our goal. Then we thought of the cheapest option: building our own cabinet (later, maybe too later, I realized it was cheaper in terms of money, but not in time).
 
-My friend directly got the [Project Arcade - Build your own arcade cabinet](http://www.amazon.com/Project-Arcade-Build-Your-Machine/dp/047089153X) book. That was indeed an impressive book to build it from scratch... but following the described steps was like studying a project management, electronic and carpentry. In short, something to read when you don't mind to spend one year to just imagine the machine you want to build and how you could do it when you have a lot of spare time.
+My friend directly bought the [Project Arcade - Build your own arcade cabinet](http://www.amazon.com/Project-Arcade-Build-Your-Machine/dp/047089153X) book. That was indeed an impressive book to build it from scratch... but following the described steps was like studying a project management, electronic and carpentry. In short, something to read when you don't mind to spend one year to just imagine the machine you want to build and how you could do it when you have a lot of spare time.
 
 I refused that idea and given my space, tools and carpentry knowledge, I thought the wood cabinet building, was something I had to skip. Therefore an empty machine was all I needed. Namely, a second-hand cabinet I could clean and use as a base to build my dream game provider.
 
@@ -60,9 +59,9 @@ Setting up the base
 -
 > Phase 2 of 16
 
-Looking, looking and looking for, I finally found a guy who was selling a huge variety of 90s' amusements from a few kilometers away from home (in Malaga, Spain). After a couple of calls, I finally received photos of what was going to be my starting-point: a functional Video-Sonic with the mythic Tetris.
+Looking, looking and looking for, I finally found someone who was selling a huge variety of 90s' amusements from a few kilometers away from home (in Malaga, Spain). After a couple of calls, I finally received photos of what was going to be my starting-point: a functional Video-Sonic with the mythic [Tetris](https://en.wikipedia.org/wiki/Tetris).
 
-I couldn't believe I was seeing on those photos and talking about. But yes! That dusty monster was waiting for me. Now... how could I pick up such huge and heavy thing to bring it home?. Considering costs, patiently I could negotiate and find a van to rent still making the business profitable. My old friend Jesus, a van and the common passion for old tech stuff, was all we needed to go for it.
+I couldn't believe I was seeing on those photos and talking about. But yes! That dusty monster was waiting for me. Now... how could I pick up such huge and heavy thing to bring it home?. Considering costs, patiently I could negotiate and find a van to rent still making the business profitable. My old friend Jes&uacute;s, a van and the common passion for old tech stuff, was all we needed to go for it.
 
 And finally here it was!
 
@@ -76,7 +75,7 @@ The hard-work and the important decisions were coming... what parts can we re-us
  * Minimum number of fans (zero if possible).
  * Accesible switcher at the top.
 
-With those requirements, I would build a flexible and easy-to-maintain hardware that would let me add either a PC, console or... as Jesus thought, a lovely Raspberry Pi.
+With those requirements, I would build a flexible and easy-to-maintain hardware that would let me add either a PC, console or... as Jes&uacute;s thought, a lovely Raspberry Pi.
 
 Ok, before gutting the monster I left in the living-room, I wanted to enjoy the original design, buttons and screen with all cigarette burns in the control panel, yellowish image, hits in the front side and cigar smell that made thr experience even closer to those days in the corner of a bar.
 
@@ -150,9 +149,9 @@ Main switcher
 -
 > Phase 7 of 16
 
-Those days when I used to go to the amusements to see who was able to go further in the [Shamurai Shadown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game)) or in [Snow Bros](https://en.wikipedia.org/wiki/Snow_Bros), I remember all cabinets had a switch on the top side, pretty hidden, but easily reachable. It had two positions (on/off), which had a trick! I have seen it at least in one cabinet: when your credits end up, if you quickly switched from ON to OFF and ON again (kinda reset), you could keep playing with a new credit. It was like your credit counter was not decreased before the machine got off and kept it back when the game got on.
+![](https://2.bp.blogspot.com/-l2LCMhk-Jl8/Vsju9IiXR-I/AAAAAAAAE-8/h3OBnM26FGo/s1600/double-pole-on-off-toggle-switch-311-p.jpg){: width="150px"}
 
-![](https://2.bp.blogspot.com/-l2LCMhk-Jl8/Vsju9IiXR-I/AAAAAAAAE-8/h3OBnM26FGo/s1600/double-pole-on-off-toggle-switch-311-p.jpg){: width="200px"}
+Those days when I used to go to the amusements to see who was able to go further in the [Shamurai Shadown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game)) or in [Snow Bros](https://en.wikipedia.org/wiki/Snow_Bros), I remember all cabinets had a switch on the top side, pretty hidden, but easily reachable. It had two positions (on/off), which had a trick! I have seen it at least in one cabinet: when your credits end up, if you quickly switched from ON to OFF and ON again (kinda reset), you could keep playing with a new credit. It was like your credit counter was not decreased before the machine got off and kept it back when the game got on.
 
 A switch like this has the advantage of being more accessible than the default one, which was in the back side under the main cable.
 
@@ -270,7 +269,7 @@ Fun!
 
 Fast booting with the lovely classic switch button, an intuitive Mame interface with all controlled from the control panel, a big screen displaying colourfully old games such as [Sunset Riders](https://en.wikipedia.org/wiki/Sunset_Riders) or [Captain Commando](https://en.wikipedia.org/wiki/Captain_Commando), japanese joysticks and american buttons that even simulates coin insertions, SSH connection to the system... all good and ready to make the classic games parties an easy and confortable experience.
 
-![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:height="600px"}
+![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:height="800px"}
 
 Before and after
 -
