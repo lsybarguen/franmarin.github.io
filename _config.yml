@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: https://franmarin.github.io
-title: "My awesome new site" 
-tagline: "Educational thoughts"
-description: My awesome new site
+title: "Home of Fran Marín" 
+tagline: "Code snippets y lo que se tercie"
+description: My home on the web
 paginate: 1
