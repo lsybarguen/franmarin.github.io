@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Arcade cabinet restoration project
 layout: post
 tags: [Arcade]
@@ -10,9 +10,9 @@ categories: [Videogames]
 
 In days where the "videogame" word sounds old-fashioned and the "video" prefix does not make much sense, nostalgic players have to make a huge effort to get one of those toys of the late 80s and 90s that they spent many coins with.
 
-In this article I briefly describe my experience in the personal project that let me own one of those toys: Building an economical home arcade system with a highly polished professional end result. An idea split into several steps that could be used as a guideline for anyone who wants to have one of these childhood dreams.
+In this article I briefly describe my experience in a personal project that let me own one of those toys: Building an economical home arcade system with a highly polished professional end result. An idea split into several steps that could be used as a guideline for anyone who wants to have one of these childhood dreams.
 
-This work is dedicated to my partner in life, without whose patient this would have never been achieved. I am grateful also for the constant support of my dear friend [Jes&uacute;s] and the daily motivation of my friend Dave.
+This work is dedicated to my partner in life, without whose patient this would have never been achieved. I am grateful also for the constant support of my dear friend Jes&uacute;s and the daily motivation of my friend Dave.
 
 <!--
 Index
@@ -274,6 +274,7 @@ Fast booting with the lovely classic switch button, an intuitive Mame interface 
 
 Before and after
 -
+> Jul 2013 vs Sep 2014
 
 ![](http://s390460192.mialojamiento.es/arcadecabinet/B.jpg){:width="600px"}
 ![](http://s390460192.mialojamiento.es/arcadecabinet/E.jpg){:width="600px"}
@@ -281,3 +282,5 @@ Before and after
 More, more and more photos
 -
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/DHf2-6iIwMU" frameborder="0" allowfullscreen></iframe>
+
+I hope you found it interesting :)
