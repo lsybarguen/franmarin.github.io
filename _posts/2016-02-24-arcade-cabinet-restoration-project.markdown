@@ -233,11 +233,11 @@ Raspberry Pi
 
 No fans, no PC power supplier, no hard drive... minimum hardware for just what I wanted: an interface with a list of arcade games to play with. At the moment, in this sense, the best alternative to the usual motherboard, graphic card, hard drive and all that hardware is a Raspberry Pi. I used the model B with 512 MB and ARM1176JZ-F processor. Also a Kingston SD 16 GB card for the emulators and games.
 
-![](http://www.vesalia.de/pic/raspberrypirev2.jpg){:width="600px"}
+![](https://4.bp.blogspot.com/-HvE4b1LF6BY/Vs14EwuXULI/AAAAAAAAFJU/07pW6XhYV2M/s1600/raspberrypirev2.jpg){:width="600px"}
 
 Lukily some pleople have already worked on emulators ready to run on such hardware and, after comparing multiple platforms, I could finally chose one: [Raspicade](http://sourceforge.net/projects/raspicade/).
 
-![](http://www.morere.eu/IMG/png/logo_raspicade_300dpi.png){: width="200px"}
+![](https://4.bp.blogspot.com/-CSYidXk14uM/Vs14E8Wv6rI/AAAAAAAAFJY/atRveoc7IOk/s1600/logo_raspicade_300dpi.jpg){: width="200px"}
 
 Raspicade is a clean Debian OS configured to automatically run a very user-friendly interface to play with roms of multiple emulator platforms when booting.
 
@@ -247,7 +247,7 @@ I recommend roms that have been compiled to run on Android OSs. There are tons o
 
 Once you have the rom set in the expected Mame directory, it is good to have a screenshot associated to each game. That makes the searching experience easier and attractive. The most popular tool to automatically download screenshots and other images for different platform games is [EmuMovies DSU](http://emumovies.com) (for Windows). A very intuitive and powerful application based on the connection to a service that provides all requested files.
 
-![](http://emumovies.com/forums/index.php?app=downloads&module=display&section=screenshot&record=306877&id=321&full=1){:width="600px"}
+![](https://4.bp.blogspot.com/-d6wic4nvZVw/Vs14E6B-qaI/AAAAAAAAFJQ/rmtbJAhGPUM/s1600/screenshot.jpg){:width="600px"}
 
 Having the rom and image files, we still need to get the official game name of each one plus tell Mame how they relate: rom file, image file and game name. In order to do it, there is a magic Perl script called [mameGenXml](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=70957) that makes all the work by running it from the command line.
 
