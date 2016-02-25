@@ -269,7 +269,7 @@ Fun!
 
 Fast booting with the lovely classic switch button, an intuitive Mame interface with all controlled from the control panel, a big screen displaying colourfully old games such as [Sunset Riders](https://en.wikipedia.org/wiki/Sunset_Riders) or [Captain Commando](https://en.wikipedia.org/wiki/Captain_Commando), japanese joysticks and american buttons that even simulates coin insertions, SSH connection to the system... all good and ready to make the classic games parties an easy and confortable experience.
 
-![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:height="800px"}
+![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:width="600px"}
 
 Before and after
 -
