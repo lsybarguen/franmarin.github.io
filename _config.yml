@@ -1,6 +1,5 @@
 version: 0.0.1
 permalink: pretty
-relative_permalinks: true
 baseurl: ''
 excerpt_separator: ""
 pygments: true
