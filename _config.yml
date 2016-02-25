@@ -6,3 +6,4 @@ title: "Fran Mar&iacute;n"
 tagline: ""
 description: Fran's github website
 paginate: 1
+baseurl: {{site.baseurl}}{{post.url}}
