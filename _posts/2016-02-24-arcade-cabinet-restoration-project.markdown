@@ -13,10 +13,8 @@ In this article I briefly describe my experience in a personal project that let 
 
 This work is dedicated to [my partner in life](https://www.facebook.com/desita.corpasoliveros), without whose patient this would have never been achieved. I am grateful also for the constant support of my dear friend [Jes&uacute;s](https://www.facebook.com/jesus.moreno.12177276) and the daily motivation of my friend [Dave](https://www.facebook.com/davidhill252).
 
-<!--
-Index
+TL;DR
 -
-
 1. [How the idea came up](#phase-1)
 2. [Setting up the base](#phase-2)
 3. [Clearing things out](#phase-3)
@@ -33,9 +31,9 @@ Index
 14. [Fluorescent light fixture](#phase-14)
 15. [Raspberry Pi](#phase-15)
 16. [Power strip](#phase-16)
-17. [Video intro](#phase-17)
-18. Before-and-after comparison{#before-and-after}
--->
+17. [Fun!](#fun)
+18. [Before and after](#before-and-after)
+19. [More, more and more photos](#more-more-and-more-photos)
 
 {:#phase-1}
 How the idea came up
@@ -264,13 +262,15 @@ Power strip
 
 Having the monitor, sound amplifier, Raspberry Pi and fluorescent light fixture, I just needed something that powered on all components at the same time when switching on the external switcher I added. And that was a simple power strip (where everything was plugged) that I opened and modified to be controlled from the main switcher.
 
+{:#fun}
 Fun!
 -
 
 Fast booting with the lovely classic switch button, an intuitive Mame interface with all controlled from the control panel, a big screen displaying colourfully old games such as [Sunset Riders](https://en.wikipedia.org/wiki/Sunset_Riders) or [Captain Commando](https://en.wikipedia.org/wiki/Captain_Commando), japanese joysticks and american buttons that even simulates coin insertions, SSH connection to the system... all good and ready to make the classic games parties an easy and confortable experience.
 
-![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:height="800px"}
+![Michael Jackson's Billie Jean arcade cabinet](https://1.bp.blogspot.com/-KHGhyaBCzH8/VrpJWFOi84I/AAAAAAAAE7Q/k1pqCIrxxmg/s1600/main.jpg){:width="600px"}
 
+{:#before-and-after}
 Before and after
 -
 > Jul 2013 vs Sep 2014
@@ -278,6 +278,7 @@ Before and after
 ![](http://s390460192.mialojamiento.es/arcadecabinet/B.jpg){:width="600px"}
 ![](http://s390460192.mialojamiento.es/arcadecabinet/E.jpg){:width="600px"}
 
+{:#more-more-and-more-photos}
 More, more and more photos
 -
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/DHf2-6iIwMU" frameborder="0" allowfullscreen></iframe>
