@@ -1,6 +1,5 @@
 ---
-published: true
-title: My first post :_)
 layout: post
+title: My first post :_)
 ---
 Testing this magic git blog!
