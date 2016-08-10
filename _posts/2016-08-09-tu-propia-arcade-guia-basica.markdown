@@ -9,10 +9,6 @@ Después de restaurar una máquina arcade, el siguiente paso era la publicación
 
 ¡Y aquí lo tenemos! Una guía para la creación, restauración y personalización de una máquina arcade:
 
-Versión para móvil:
-[http://zonaarcade.forumcommunity.net/m/?t=59100990](http://zonaarcade.forumcommunity.net/m/?t=59100990)
-
-Versión para escritorio:
 [http://zonaarcade.forumcommunity.net/?t=59100990](http://zonaarcade.forumcommunity.net/?t=59100990)
 
 Se trata de una guía básica de ayuda para la toma de decisiones sobre las cuestiones a las que tenemos que enfrentarnos cuando queremos tener nuestra propia recreativa.
