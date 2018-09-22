@@ -52,12 +52,12 @@ Se trata de un video en el que un tipo de marketing hace un "show" repartiendo p
 
 Con tono de humor, intenta ridiculizar el uso de herramientas para la organizaci&oacute;n de proyectos y formas de trabajo, con alg&uacute;n que otro "puta mierda" y tecnicismo, para aparentar que domina el tema del que habla. Hasta tal nivel, que puede permitirse bromear sobre &eacute;l.
 
-Ridiculiza cualquier forma de trabajar diferente a la suya. No importa que est&eacute;n demostradas las ventajas de otras. Lo importante es mantener la forma que a &eacute;l le ha funcionado siempre. Lo que los dem&aacute;s piensen, no v&aacute; con &eacute;l.
+Ridiculiza cualquier forma de trabajar diferente a la suya. No importa que est&eacute;n demostradas las ventajas de otras. Lo importante es mantener la forma que a &eacute;l le ha funcionado siempre. Lo que los dem&aacute;s piensen, no va con &eacute;l.
 
 Todos sus argumentos est&aacute;n entre el humor y el enfado. Entre la gracia y la iron&iacute;a. Entre la verborrea callejera y los tecnicismos. Entre el sentar c&aacute;tedra y el sentido com&uacute;n. Entre la simpat&iacute;a y lo desagradable. Entre el respeto y la ignorancia. Entre la cara dura y la humildad. Entre la seguridad y la verg&uuml;enza ajena.
 
 Un claro ejemplo de buen-rollismo que deja entrever el alto nivel de frustraci&oacute;n en el que este tipo de personas vive. Las ganas de desahogarse. De ser escuchados. Y c&oacute;mo pueden llegar a perder la conciencia de que disfrazar sus inseguridades con humor, no les sirve de nada.
 
-Personajes que aparecen (por suerte) espor&aacute;dicamente en nuestra trayectoria profesional, pero que ah&iacute; est&aacute;n y cumplen ese patr&oacute;n de conducta. Lo que los hace f&aacute;cilmente identificables/ver de venir.
+Personajes que aparecen (por suerte) espor&aacute;dicamente en nuestra trayectoria profesional, pero que ah&iacute; est&aacute;n y cumplen ese patr&oacute;n de conducta. Lo que los hace f&aacute;cilmente identificables.
 
 En definitiva, una actitud de buen rollo que, para ellos, justifica todo.
