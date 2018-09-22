@@ -44,7 +44,7 @@ Dentro o fuera del trabajo. En persona, v&iacute;a Whatsapp, Facebook, Twitter&h
 
 Para ponerle imagen a este tipo de personas "en su salsa", aqu&iacute; podemos ver un ejemplo:
 
-[![](https://lh4.googleusercontent.com/VDmJimvysfwohF87XL2FseeDIdosJ0kT3tetlDyFj34trHqVkY7r8Nn2F-9Nzt1stsewKHCsAtDkd8uYgUUJ=w1920-h942)](https://drive.google.com/open?id=17jblR5j23YGnR-tM23ID-uSDjF18uBlS)
+[![](http://franmarin.es/public/buen-rollismo/buen-rollismo-play.png)](http://franmarin.es/public/buen-rollismo/dmktmalaga-2018-09-22_01-04.mp4)
 
 Fuente: [https://twitter.com/dmktmalaga/status/941381943211544576](https://www.pscp.tv/w/1dRKZbbvZobKB)
 
