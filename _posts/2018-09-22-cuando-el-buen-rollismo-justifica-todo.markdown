@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Cuando el buen-rollismo justifica todo
 layout: post
 tags: [Job]
