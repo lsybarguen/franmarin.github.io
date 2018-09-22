@@ -20,7 +20,7 @@ Es plenamente consciente del buen ambiente que crea y lo alimenta cada d&iacute;
 
 En las situaciones inc&oacute;modas, con el buen rollo, puede oponerse a una idea o pedir algo de forma directa, sin formalismos ni eufemismos. Sobreentiende que, con &eacute;l, siempre estaremos en el contexto del buen rollo.
 
-Considera que todos nos movemos en ese ambiente de buen rollo, lo que le permite decir, sin temor a que nadie se ofenda, cosas como: "&quest;Qu&eacute; mierda est&aacute;s haciendo?", "&excl;No entiendo c&oacute;mo no lo has hecho ya!" o "&excl;Eso no hace falta que lo leas!". Porque cree que el respeto y la prudencia se considera impl&iacute;cito en &eacute;l.
+Considera que todos nos movemos en ese ambiente de buen rollo, lo que le permite decir, sin temor a que nadie se ofenda, cosas como: "&iquest;Qu&eacute; mierda est&aacute;s haciendo?", "&iexcl;No entiendo c&oacute;mo no lo has hecho ya!" o "&iexcl;Eso no hace falta que lo leas!". Porque cree que el respeto y la prudencia se considera impl&iacute;cito en &eacute;l.
 
 Cuando llega a ese nivel, si la situaci&oacute;n lo permite, suele subir otro escal&oacute;n y juega a ridiculizar (sin que &eacute;l considere que lo est&aacute; haciendo) al compa&ntilde;ero que considera que nunca se ofender&aacute;. Cree que el resto de compa&ntilde;eros tienen la misma percepci&oacute;n de la situaci&oacute;n y todos acabar&aacute;n ri&eacute;ndose.
 
@@ -30,13 +30,13 @@ Todos estos comportamientos, suelen tener como base una personalidad en la que s
 
 Es un compa&ntilde;ero que critica a otros porque piensa no estar haciendo nada m&aacute;s malo que los que le est&aacute;n escuchando. En el momento, se siente el centro de atenci&oacute;n o, incluso, l&iacute;der del grupo.
 
-A veces, interpreta el papel de jefazo, con chasquidos y llamadas de atenci&oacute;n en p&uacute;blico. Porque, &excl;total!, todos piensan que es buena gente y (se sobreentiende), que no lo hace con mala intenci&oacute;n.
+A veces, interpreta el papel de jefazo, con chasquidos y llamadas de atenci&oacute;n en p&uacute;blico. Porque, &iexcl;total!, todos piensan que es buena gente y (se sobreentiende), que no lo hace con mala intenci&oacute;n.
 
 Se envuelve en su aura de buen-rollismo para que nadie pueda pararle. A veces, ni su propio jefe.
 
 Dentro de esa burbuja de seguidores y ego, los l&iacute;mites son cada vez m&aacute;s difusos. Y, en muchos casos, desaparecen.
 
-Su ego es tal, que hasta fuera del trabajo se regocija con su propia forma de ser y llega a aprovecharla para hacer humor de lo que ocurre en su d&iacute;a a d&iacute;a. Piensa que es comedia. &excl;Total!. &quest;Qui&eacute;n va a denunciar algo que se dice "de buen rollo"?.
+Su ego es tal, que hasta fuera del trabajo se regocija con su propia forma de ser y llega a aprovecharla para hacer humor de lo que ocurre en su d&iacute;a a d&iacute;a. Piensa que es comedia. &iexcl;Total!. &iquest;Qui&eacute;n va a denunciar algo que se dice "de buen rollo"?.
 
 El ego le nubla y hace ajeno a la realidad que le rodea. Y, como dijo aquel, la "ignorancia es atrevida", y puede llegar a pensar en compartir p&uacute;blicamente los mismo comentarios e ideas que usa en el trabajo.
 
@@ -54,7 +54,7 @@ Con tono de humor, intenta ridiculizar el uso de herramientas para la organizaci
 
 Ridiculiza cualquier forma de trabajar diferente a la suya. No importa que est&eacute;n demostradas las ventajas de otras. Lo importante es mantener la forma que a &eacute;l le ha funcionado siempre. Lo que los dem&aacute;s piensen, no v&aacute; con &eacute;l.
 
-Todos sus argumentos est&aacute;n entre el humor y el enfado. Entre la gracia y la iron&iacute;a. Entre la verborrea callejera y los tecnicismos. Entre el sentar c&aacute;tedra y el sentido com&uacute;n. Entre la simpat&iacute;a y lo desagradable. Entre el respeto y la ignorancia. Entre la cara dura y la humildad. Entre la seguridad y la verg&uumlenza ajena.
+Todos sus argumentos est&aacute;n entre el humor y el enfado. Entre la gracia y la iron&iacute;a. Entre la verborrea callejera y los tecnicismos. Entre el sentar c&aacute;tedra y el sentido com&uacute;n. Entre la simpat&iacute;a y lo desagradable. Entre el respeto y la ignorancia. Entre la cara dura y la humildad. Entre la seguridad y la verg&uuml;enza ajena.
 
 Un claro ejemplo de buen-rollismo que deja entrever el alto nivel de frustraci&oacute;n en el que este tipo de personas vive. Las ganas de desahogarse. De ser escuchados. Y c&oacute;mo pueden llegar a perder la conciencia de que disfrazar sus inseguridades con humor, no les sirve de nada.
 
