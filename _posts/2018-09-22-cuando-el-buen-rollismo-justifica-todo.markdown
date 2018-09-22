@@ -36,11 +36,11 @@ Se envuelve en su aura de buen-rollismo para que nadie pueda pararle. A veces, n
 
 Dentro de esa burbuja de seguidores y ego, los l&iacute;mites son cada vez m&aacute;s difusos. Y, en muchos casos, desaparecen.
 
-Su ego es tal, que hasta fuera del trabajo se regocija con su propia forma de ser y llega a aprovecharla para hacer humor de lo que ocurre en su d&iacute;a a d&iacute;a. Piensa que es comedia. &excl;Total!. &quest;Qui&eacute;n va a denunciar algo que se dice “de buen rollo”?.
+Su ego es tal, que hasta fuera del trabajo se regocija con su propia forma de ser y llega a aprovecharla para hacer humor de lo que ocurre en su d&iacute;a a d&iacute;a. Piensa que es comedia. &excl;Total!. &quest;Qui&eacute;n va a denunciar algo que se dice "de buen rollo"?.
 
 El ego le nubla y hace ajeno a la realidad que le rodea. Y, como dijo aquel, la "ignorancia es atrevida", y puede llegar a pensar en compartir p&uacute;blicamente los mismo comentarios e ideas que usa en el trabajo.
 
-Dentro o fuera del trabajo. En persona, v&iacute;a Whatsapp, Facebook, Twitter… donde sea. Siempre que sienta estar en un contexto laboral y rodeado de quienes tienen un car&aacute;cter similar o que, simplemente, le r&iacute;en la gracia, sigue su comportamiento.
+Dentro o fuera del trabajo. En persona, v&iacute;a Whatsapp, Facebook, Twitter&hellip; donde sea. Siempre que sienta estar en un contexto laboral y rodeado de quienes tienen un car&aacute;cter similar o que, simplemente, le r&iacute;en la gracia, sigue su comportamiento.
 
 Para ponerle imagen a este tipo de personas "en su salsa", aqu&iacute; podemos ver un ejemplo:
 
