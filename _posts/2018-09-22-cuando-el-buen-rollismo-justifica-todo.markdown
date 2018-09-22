@@ -10,13 +10,13 @@ categories: [Job]
 
 Todos hemos tenido alguna vez a un compa&ntilde;ero de esos que son vistos como profesionales, serios, responsables, con buena imagen y, al mismo tiempo, capaces de generar muy buen rollo en su entorno de trabajo.
 
-Ese tipo de compa&ntilde;ero que transmite seguridad y te d&iacute;a v&iacute;a libre a sacar lo mejor de t&iacute;, de forma relajada.
+Ese tipo de compa&ntilde;ero que transmite seguridad y te da v&iacute;a libre a sacar lo mejor de t&iacute;, de forma relajada.
 
 Es admirado por altos cargos de la empresa por su productividad y, al mismo tiempo, tener el sentido del humor necesario para alegrarles el d&iacute;a a d&iacute;a.
 
 Genera buen rollo y se rodea de un grupo fiel que le respalda y alaba su ingenio, cuando de bromear se trata.
 
-Es plenamente consciente del buen ambiente que crea y lo alimenta cada d&iacute;a con dosis de seriedad profesional y alg&uacute;n que otro comentario ingenioso. Con lo que mantiene su grupo contento y, de paso, le d&aacute; un plus a su concepto de s&iacute; mismo.
+Es plenamente consciente del buen ambiente que crea y lo alimenta cada d&iacute;a con dosis de seriedad profesional y alg&uacute;n que otro comentario ingenioso. Con lo que mantiene su grupo contento y, de paso, le da un plus a su concepto de s&iacute; mismo.
 
 En las situaciones inc&oacute;modas, con el buen rollo, puede oponerse a una idea o pedir algo de forma directa, sin formalismos ni eufemismos. Sobreentiende que, con &eacute;l, siempre estaremos en el contexto del buen rollo.
 
@@ -38,7 +38,7 @@ Dentro de esa burbuja de seguidores y ego, los l&iacute;mites son cada vez m&aac
 
 Su ego es tal, que hasta fuera del trabajo se regocija con su propia forma de ser y llega a aprovecharla para hacer humor de lo que ocurre en su d&iacute;a a d&iacute;a. Piensa que es comedia. &iexcl;Total!. &iquest;Qui&eacute;n va a denunciar algo que se dice "de buen rollo"?.
 
-El ego le nubla y hace ajeno a la realidad que le rodea. Y, como dijo aquel, la "ignorancia es atrevida", y puede llegar a pensar en compartir p&uacute;blicamente los mismo comentarios e ideas que usa en el trabajo.
+El ego le nubla y hace ajeno a la realidad que le rodea. Y, como dijo aquel, la "ignorancia es atrevida", y puede llegar a pensar en compartir p&uacute;blicamente los mismos comentarios e ideas que usa en el trabajo.
 
 Dentro o fuera del trabajo. En persona, v&iacute;a Whatsapp, Facebook, Twitter&hellip; donde sea. Siempre que sienta estar en un contexto laboral y rodeado de quienes tienen un car&aacute;cter similar o que, simplemente, le r&iacute;en la gracia, sigue su comportamiento.
 
